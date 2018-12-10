@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "shop": "寿司先生",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544436977022&di=4aac24e04565d9ed4526e750561a30ca&imgtype=0&src=http%3A%2F%2Fstatic2.orstatic.com.cn%2Fuserphoto%2Fphoto%2F1%2F16J%2F008EFAAA3D611180F8F036l.jpg",
+        "product": "叉烧滑蛋饭",
+        "price": 15.6,
+        "ifCommented": false
+    },
+    {
+        "id": 2,
+        "shop": "亮庆酒楼",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544437177880&di=33491c5f5c43056bfb8b2546639e4048&imgtype=0&src=http%3A%2F%2Fwww.bingsheng.com%2FimageRepository%2F596e84d5-93f4-4ef8-969a-c36a46956bb7.jpg",
+        "product": "鲜虾肠粉",
+        "price": 18,
+        "ifCommented": false
+    },
+    {
+        "id": 3,
+        "shop": "喜茶",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544437297308&di=306b7e3ded4988a2fd0ece1b544c72c1&imgtype=0&src=http%3A%2F%2Fp2.so.qhimgs1.com%2Ft01de1e914a72c8340e.jpg",
+        "product": "鲜奶静冈抹茶",
+        "price": 20,
+        "ifCommented": false
+    },
+    {
+        "id": 4,
+        "shop": "功夫排骨",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544437456978&di=7ac698559628fc6f2fdcd0498a71a8b1&imgtype=0&src=http%3A%2F%2Fimage.uczzd.cn%2F2972181357202469448.jpeg%3Fid%3D0%26from%3Dexport",
+        "product": "碟仔排骨(1碟)",
+        "price": 3,
+        "ifCommented": false
+    },
+    {
+        "id": 5,
+        "shop": "岭南牛杂",
+        "picture": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1901469785,317426059&fm=26&gp=0.jpg",
+        "product": "萝卜牛杂",
+        "price": 8,
+        "ifCommented": false
+    },
+    {
+        "id": 6,
+        "shop": "和兴酒楼",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544437911298&di=bcbc1e0ff04da22382890e0c4a5b61e7&imgtype=0&src=http%3A%2F%2Fcp2.douguo.net%2Fupload%2Fcaiku%2Ff%2Fe%2Fb%2F600x400_feac12c46f8da218d2991853029291ab.jpeg",
+        "product": "清蒸蒜蓉虾",
+        "price": 68,
+        "ifCommented": false
+    },
+    {
+        "id": 7,
+        "shop": "朋友餐馆",
+        "picture": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544438019337&di=f67f5ebc32029bf4db35fdab23b63950&imgtype=0&src=http%3A%2F%2Fwww.3158.cn%2Fdata%2Fattachment%2Fproduct%2F2013%2F06%2F07%2F20130607112138702760_490x490.jpg",
+        "product": "咸鱼茄子煲",
+        "price": 30,
+        "ifCommented": false
+    }
+]
